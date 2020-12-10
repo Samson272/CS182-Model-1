@@ -1,1 +1,2 @@
 # CS182-Model-1
+In order to run: Download JuliaPOMDP solver. This can be done in multiple ways. One options is using PyCharm. Search for Julia in PyCharm, download and install it. Once Julia is downloaded and installed, you will need to install these packages: POMDPs, QuickPOMDPs, POMDPModelTools, POMDPSimulators, Plots, QMDP, JLD, NPZ, DelimitedFiles. You can install a package by running: $Pkg.add("nameOfPackage")$ in the julia interface. Once you have installed all the packages, you can run the code found in file: proj.ji.
